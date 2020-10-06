@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "corgitaco.exampleworldgenmod.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "exampleworldgenmod.refmap.json",
+  "mixins": [
+  ],
+  "client":[],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "minVersion": "0.8"
+}
